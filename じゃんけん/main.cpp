@@ -69,6 +69,7 @@ private:
 	// 勝者を判定する関数
 	bool isPlayerWin(const std::string& playerChoice, const std::string& computerChoice) {
 		// ここでの判定ロジックを実装
+		//下で数えて＋判定してるからいらない
 		return 0;
 	}
 	// 最終的な結果を表示する関数
